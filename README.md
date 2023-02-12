@@ -16,4 +16,8 @@ python, js, lua, luau (roblox lua)
 ### Note
 This is my **only** github account, do __not__ trust any impersonators.
 
-- vib
+
+### Support
+Add me on discord vib#0023 if you have any questions concerning my github or any other stuff.
+
+vib was here
